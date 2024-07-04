@@ -1,0 +1,10 @@
+[32mFound: [0m[32mwww.dyson.ae
+[0m
+[32mFound: [0m[32mstaging.dyson.ae
+[0m
+[32mFound: [0m[32mshop.dyson.ae
+[0m
+[32mFound: [0m[32msupport.dyson.ae
+[0m
+[32mFound: [0m[32mwww.stage.dyson.ae
+[0m
